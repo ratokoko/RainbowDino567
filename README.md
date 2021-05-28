@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hey!
+# Hi there 👋
 
 ### Some cool facts about me: 
 
