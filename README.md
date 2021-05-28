@@ -11,4 +11,3 @@
 
 - 📫 Email: zacharyratkiewicz@gmail.com
 - 📫 Discord: ratoko#4780
-- 
