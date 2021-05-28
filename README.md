@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**RainbowDino567/RainbowDino567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey!
 
-Here are some ideas to get you started:
+## Some cool facts about me: 
 
 - 🔭 I’m currently working on [MCSpongebobPlugin](https://github.com/RainbowDino567/mc-spongebob-plugin)!
 - 🌱 I’m currently learning Java!
