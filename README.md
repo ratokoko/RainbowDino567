@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 # Hey!
 
-## Some cool facts about me: 
+### Some cool facts about me: 
 
 - 🔭 I’m currently working on [MCSpongebobPlugin](https://github.com/RainbowDino567/mc-spongebob-plugin)!
 - 🌱 I’m currently learning Java!
