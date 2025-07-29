@@ -3,7 +3,7 @@
 ### Some cool facts about me: 
 
 - 🎸🎵 I’m currently working on nothing!
-- 🍾🥳 Pronouns: He/him
+- 🍾🥳 Pronouns: he/him
 - 🌻🐊 Studying BME at UF!
 
 ### Contact:
